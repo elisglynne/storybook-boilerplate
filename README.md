@@ -1,6 +1,7 @@
 # StoryBook Boilerplate
 
 Simple boilerplate to kickstart your styleguide endeavors with [StoryBook](https://storybook.js.org)
+Forked from Sara Vieira's (@nikkitaftw) [boilerplate](https://github.com/SaraVieira/storybook-boilerplate) 
 
 Includes:
 
@@ -12,7 +13,7 @@ Includes:
 ## Install
 
 ```bash
-git clone git@github.com:SaraVieira/storybook-boilerplate.git
+git clone git@github.com:elisglynne/storybook-boilerplate.git
 cd storybook-boilerplate
 rm -rf .git
 yarn
