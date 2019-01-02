@@ -1,7 +1,8 @@
 # StoryBook Boilerplate
 
 Simple boilerplate to kickstart your styleguide endeavors with [StoryBook](https://storybook.js.org)
-Forked from Sara Vieira's (@nikkitaftw) [boilerplate](https://github.com/SaraVieira/storybook-boilerplate) 
+
+Updates Sara Vieira's (@nikkitaftw) [boilerplate](https://github.com/SaraVieira/storybook-boilerplate) 
 
 Includes:
 
